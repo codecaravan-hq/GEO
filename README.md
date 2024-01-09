@@ -30,8 +30,9 @@ This will ensure your personal version of GEO is connected to CodeCaravan's - ma
 **Follow these steps:**
 
 - **Fork this repo:** this will create a copy of it on your own Github account
-- **Then clone** this new personal version of the repo (you should now be on github.com/yourgithubusername/GEO, where 'yourgithubusername' is your Github username)
-- **Start working** and committing code. If you're not sure you've done it right, test it with one simple change at first. Add 1-2 lines of code, commit and push, and then check that github.com/yourgithubusername/GEO reflects the change
-- When you're ready, **open a Pull Request** from your repo pointing to CodeCaravan's version
+- **Then clone** this new personal version of the repo (you should now be on github.com/yourgithubusername/GEO, where 'yourgithubusername' is your Github username). This is where you will write your code.
+- **Start working** and committing code. If you're creating an app with a JS framework like React, you should create it inside this new repo (navigate to the root folder with the command line, and create your app from there)
+- Once you have your app set up, test that it works and that changes you make are showing. Make one simple change at first: Add 1-2 lines of code, commit and push, and then check that github.com/yourgithubusername/GEO reflects the change
+- When you're ready to submit some work for feedback, **open a Pull Request** from your repo pointing to CodeCaravan's original version.
 
 If you have any trouble or questions, feel free to ask in the [#code-reviews channel on Discord](https://discord.gg/BdeBF5vz).
